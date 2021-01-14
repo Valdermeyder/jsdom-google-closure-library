@@ -1,0 +1,18 @@
+{
+  "name": "jsdom-google-closure-library",
+  "version": "1.0.0",
+  "description": "Demo of integration between jsdom and google-closure-library",
+  "main": "index.js",
+  "keywords": [
+    "closure",
+    "jsdom",
+    "goog",
+    "node"
+  ],
+  "author": "valdermeyder",
+  "license": "ISC",
+  "dependencies": {
+    "google-closure-library": "^20201102.0.1",
+    "jsdom": "^16.4.0"
+  }
+}
